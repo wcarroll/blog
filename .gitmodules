@@ -1,0 +1,3 @@
+[submodule "themes\\beatuifulhugo"]
+	path = themes\\beatuifulhugo
+	url = git@github.com:wcarroll/beautifulhugo.git
