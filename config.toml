@@ -11,7 +11,7 @@ metaDataFormat = "yaml"
 #pygmentsUseClassic = true
 #pygmentOptions = "linenos=inline"
 disqusShortname = "interruptrequest-io"
-#googleAnalytics = "XXX"
+googleAnalytics = "UA-120925228-1"
 
 [Params]
 #  homeTitle = "Beautiful Hugo Theme" # Set a different text for the header on the home page
@@ -25,7 +25,7 @@ disqusShortname = "interruptrequest-io"
   readingTime = false
   useHLJS = true
   socialShare = true
-#  gcse = "012345678901234567890:abcdefghijk" # Get your code from google.com/cse. Make sure to go to "Look and Feel" and change Layout to "Full Width" and Theme to "Classic"
+  gcse = "003242327075823213141:hl7z2hczpcc" # Get your code from google.com/cse. Make sure to go to "Look and Feel" and change Layout to "Full Width" and Theme to "Classic"
 
 #[[Params.bigimg]]
 #  src = "img/triangle.jpg"
