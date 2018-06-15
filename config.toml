@@ -10,7 +10,7 @@ metaDataFormat = "yaml"
 # pygmentsCodefencesGuessSyntax = true
 #pygmentsUseClassic = true
 #pygmentOptions = "linenos=inline"
-#disqusShortname = "XXX"
+disqusShortname = "interruptrequest-io"
 #googleAnalytics = "XXX"
 
 [Params]
