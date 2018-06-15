@@ -1,13 +1,13 @@
-baseurl = "https://interruptrequest.io"
+baseurl = "https://username.github.io"
 DefaultContentLanguage = "en"
 #DefaultContentLanguage = "ja"
-title = "Interrupt Request"
+title = "Beautiful Hugo"
 theme = "beautifulhugo"
 metaDataFormat = "yaml"
-# pygmentsStyle = "monokai"
-# pygmentsUseClasses = true
-# pygmentsCodeFences = true
-# pygmentsCodefencesGuessSyntax = true
+pygmentsStyle = "trac"
+pygmentsUseClasses = true
+pygmentsCodeFences = true
+pygmentsCodefencesGuessSyntax = true
 #pygmentsUseClassic = true
 #pygmentOptions = "linenos=inline"
 #disqusShortname = "XXX"
@@ -15,14 +15,14 @@ metaDataFormat = "yaml"
 
 [Params]
 #  homeTitle = "Beautiful Hugo Theme" # Set a different text for the header on the home page
-  subtitle = "Interrupting your daily IO stream"
+  subtitle = "Build a beautiful and simple website in minutes"
   logo = "img/avatar-icon.png"
   favicon = "img/favicon.ico"
   dateFormat = "January 2, 2006"
   commit = false
-  rss = false
+  rss = true
   comments = true
-  readingTime = false
+  readingTime = true
   useHLJS = true
   socialShare = true
 #  gcse = "012345678901234567890:abcdefghijk" # Get your code from google.com/cse. Make sure to go to "Look and Feel" and change Layout to "Full Width" and Theme to "Classic"
@@ -40,17 +40,17 @@ metaDataFormat = "yaml"
 #  desc = "Hexagon"
 
 [Author]
-  name = "Wes Carroll"
-  website = ""
-  email = "interruptrequestio@gmail.com"
+  name = "Some Person"
+  website = "yourwebsite.com"
+  email = "youremail@domain.com"
   facebook = "username"
   googleplus = "+username" # or xxxxxxxxxxxxxxxxxxxxx
-  github = "wcarroll"
+  github = "username"
   gitlab = "username"
   bitbucket = "username"
-  twitter = "WesCarrollTech"
+  twitter = "username"
   reddit = "username"
-  linkedin = "wes-carroll-666b9a7"
+  linkedin = "username"
   xing = "username"
   stackoverflow = "users/XXXXXXX/username"
   snapchat = "username"

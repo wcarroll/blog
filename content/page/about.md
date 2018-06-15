@@ -1,6 +1,6 @@
 ---
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Who is the guy, anyways?
 comments: false
 ---
 
@@ -8,6 +8,7 @@ My name is Inigo Montoya. I have the following qualities:
 
 - I rock a great mustache
 - I'm extremely loyal to my family
+- The Dread Pirate Roberts is my close, personal friend
 
 What else do you need?
 
