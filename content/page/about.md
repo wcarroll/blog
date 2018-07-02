@@ -36,3 +36,15 @@ Today, I work for [Zerto](https://www.zerto.com) as a Pre-Sales Engineer helping
 As my daily job does focus around IT resiliency, most of the blog will focus around the Zerto Virtual Replication platform and encompassing technologies.
 I look forward to sharing my knowledge and insights with my audience.
 If there is something specific you have a question about or would like to see me cover, please do not hesitate to reach out.
+
+### Disclaimer: ###
+This is a personal blog.
+The views and opinions expressed on this blog are solely mine.
+Content published here has not provided to or approved by my employer or any of its divisions, subsidiaries, or business partners.
+
+#### Use at your own risk ####
+This blog is for informational purposes only.
+All scripts, examples, and "How Tos" are provided AS IS without warranty of any kind.
+I further disclaim all implied warranties including, without limitation, any implied warranties of merchantability or of fitness for a particular purpose.
+The entire risk arising out of the use or performance of the sample scripts and documentation remains with you.
+In no event shall anyone else involved in the creation, production, or delivery of the scripts be liable for any damages whatsoever (including, without limitation, damages for loss of business profits, business interruption, loss of business information, or other pecuniary loss) arising out of the use of or inability to use the sample scripts or documentation, even if the author has been advised of the possibility of such damages.
