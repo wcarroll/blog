@@ -2,7 +2,7 @@
 title: "Starting My New Blog"
 date: 2018-06-15T11:32:41-04:00
 draft: false
-tags: ["2018","Blog"]
+tags: ["Blog","2018"]
 lastMod: 2018-06-26T08:32:00-04:00
 ---
 
