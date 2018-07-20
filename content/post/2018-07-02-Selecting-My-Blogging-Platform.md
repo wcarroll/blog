@@ -2,7 +2,7 @@
 title: "Selecting My Blogging Platform"
 date: 2018-07-02T13:27:50-04:00
 draft: false
-tags: ["GitHub","Hugo","Blog","2018"]
+tags: ["GitHub Pages","Hugo","Blog","2018"]
 ---
 
 Now that I have selected my name, I had to select a platform to publish on.
@@ -23,5 +23,3 @@ Now all I need to do is execute.
 
 My next post will focus on setting up my Hugo environment, configuration of GitHub, and DNS settings to get it all up and running.
 In the meantime, if you have any questions or comments, please feel free to leave them below.
-
-
