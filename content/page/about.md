@@ -31,18 +31,19 @@ In early 2015, I left the Systems Architecture \ Engineering \ Administrator rol
 While I enjoyed my time as a Systems Engineer and getting my hands dirty, moving into a consultative role is where I found my passion.
 Having the opportunity to understand individual needs and help others solve complex problems makes each day a new and exciting prospect.
 
-
 Today, I work for [Zerto](https://www.zerto.com) as a Pre-Sales Engineer helping companies understand IT resiliency concepts and where Zerto can help with these goals and objectives.
 As my daily job does focus around IT resiliency, most of the blog will focus around the Zerto Virtual Replication platform and encompassing technologies.
 I look forward to sharing my knowledge and insights with my audience.
 If there is something specific you have a question about or would like to see me cover, please do not hesitate to reach out.
 
-### Disclaimer: ###
+# Disclaimer
+
 This is a personal blog.
 The views and opinions expressed on this blog are solely mine.
 Content published here has not provided to or approved by my employer or any of its divisions, subsidiaries, or business partners.
 
-#### Use at your own risk ####
+## Use at your own risk
+
 This blog is for informational purposes only.
 All scripts, examples, and "How Tos" are provided AS IS without warranty of any kind.
 I further disclaim all implied warranties including, without limitation, any implied warranties of merchantability or of fitness for a particular purpose.
