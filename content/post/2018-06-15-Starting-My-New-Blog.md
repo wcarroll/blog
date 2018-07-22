@@ -4,6 +4,7 @@ url: /2018/06/26/starting-my-new-blog
 date: 2018-06-15T11:32:41-04:00
 draft: false
 tags: ["Blog","2018"]
+aliases: ["/post/2018-06-26-starting-my-new-blog"]
 lastMod: 2018-06-26T08:32:00-04:00
 ---
 

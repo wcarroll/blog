@@ -101,3 +101,6 @@ googleAnalytics = "UA-120925228-1"
     name = "Tags"
     url = "tags"
     weight = 3
+
+[permalinks]
+  post = "/:year/:month/:day/:slug"
