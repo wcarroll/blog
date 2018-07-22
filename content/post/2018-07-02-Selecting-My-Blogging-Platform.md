@@ -1,5 +1,6 @@
 ---
 title: "Selecting My Blogging Platform"
+url: /2018/07/02/selecting-my-blogging-platform
 date: 2018-07-02T13:27:50-04:00
 draft: false
 tags: ["GitHub Pages","Hugo","Blog","2018"]

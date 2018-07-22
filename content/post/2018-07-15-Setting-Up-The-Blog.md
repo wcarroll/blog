@@ -1,7 +1,9 @@
 ---
 title: "Setting Up the Blog"
-date: 2018-07-20
+date: 2018-07-15
+lastMod: 2018-07-20
 draft: false
+url: /2018/07/setting-up-the-blog
 tags: ["GitHub Pages", "Hugo", "Blog", "2018"]
 ---
 
