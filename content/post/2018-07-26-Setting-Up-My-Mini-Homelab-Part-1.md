@@ -1,7 +1,7 @@
 ---
 title: "Setting Up My Mini Home Lab Part 1"
 date: 2018-07-26T20:40:36-04:00
-draft: true
+draft: false
 tags: ["VMware","vSphere67","Home Lab","2018"]
 ---
 
