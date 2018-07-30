@@ -1,7 +1,7 @@
 ---
 title: "South Carolina VMUGs and Modern Data Centers"
 date: 2018-07-29T21:14:27-04:00
-draft: true
+draft: false
 tags: ["VMUG","Virtualization","IT Resiliency","2018"]
 ---
 
